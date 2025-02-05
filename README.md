@@ -18,3 +18,5 @@ B.  AttackStrategy
      1.  CastSpell
      2.  ShootArrow
      3.  SwingSword  
+
+![image](https://github.com/JabezPastores/Strategy-Pattern/blob/main/Strategy%20Pattern.png)
